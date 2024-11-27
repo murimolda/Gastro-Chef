@@ -1,0 +1,23 @@
+{
+  "name": "gastro-chef",
+  "version": "1.0.0",
+  "description": "traning project\r design: https://www.figma.com/design/MacGFpmxhOnGZn3o5q3IzL/Gastro-Chef-%2B?node-id=0-1&t=uGyZebPmuG8w9OyI-1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^9.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-pug": "^5.0.0",
+    "gulp-sass": "^5.1.0",
+    "pug": "^3.0.3",
+    "sass": "^1.81.0"
+  }
+}
